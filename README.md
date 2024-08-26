@@ -11,7 +11,7 @@ Reference,
 ### Build the Image
 
 ```bat
-docker build -t jenkinsdocker .
+docker build -t jenkinsmaster .
 ```
 
 ### Create the Container and Run
