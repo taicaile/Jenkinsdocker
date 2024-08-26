@@ -31,4 +31,6 @@ Just pull the latest,
 
 ```bash
 docker pull jenkins/jenkins:lts
+# or
+docker pull jenkins/jenkins:lts-jdk17
 ```
